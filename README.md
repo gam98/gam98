@@ -18,7 +18,7 @@ I enjoy facing technological challenges and applying my creativity to find effec
 
 - 📝 I regularly write articles on [https://gamcode.netlify.app](https://gamcode.netlify.app)
 
-- 📫 How to reach me **gamcode98@gmail.com**
+- 📫 How to reach me **gabrielmmn98@gmail.com**
 
 - ⚡ Fun fact **Watch series, fitness.**
 
