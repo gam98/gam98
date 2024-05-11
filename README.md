@@ -8,9 +8,9 @@ I enjoy facing technological challenges and applying my creativity to find effec
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamcode98&label=Profile%20views&color=0e75b6&style=flat" alt="gamcode98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gam98&label=Profile%20views&color=0e75b6&style=flat" alt="gam98" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamcode98" alt="gam98" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gam98" alt="gam98" /></a> </p>
 
 - 🌱 I’m currently learning **Nextjs**
 
