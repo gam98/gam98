@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Alejandro Mamani</h1>
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
 <p>
 A programmer analyst specialized in web and mobile development, with a focus on user experience optimization.
 
